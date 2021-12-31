@@ -1,0 +1,117 @@
+[
+  {
+    "Name": "Verbose",
+    "Parameter": " -verbose",
+    "Description": "Outputs a complete listing of added assets",
+    "Value": null,
+    "CanHaveValue": false,
+    "Warning": ""
+  },
+  {
+    "Name": "Dryrun",
+    "Parameter": " -dryrun",
+    "Description": "Creates a txt file for bspzip usage but does not pak",
+    "Value": null,
+    "CanHaveValue": false,
+    "Warning": ""
+  },
+  {
+    "Name": "Rename Nav File",
+    "Parameter": " -renamenav",
+    "Description": "Renames the nav file to embed.nav",
+    "Value": null,
+    "CanHaveValue": false,
+    "Warning": "For TF2 only"
+  },
+  {
+    "Name": "Include",
+    "Parameter": " -include",
+    "Description": "Packs specified file",
+    "Value": null,
+    "ValueIsFile": true,
+    "CanHaveValue": true,
+    "Warning": "",
+    "CanBeUsedMoreThanOnce": true
+  },
+  {
+    "Name": "Include Directory",
+    "Parameter": " -includedir",
+    "Description": "Packs all files in specified directory",
+    "Value": null,
+    "ValueIsFile": true,
+    "ValueIsFolder": true, 
+    "CanHaveValue": true,
+    "Warning": "",
+    "CanBeUsedMoreThanOnce": true
+  },
+  {
+    "Name": "Exclude",
+    "Parameter": " -exclude",
+    "Description": "Ignores specified file",
+    "Value": null,
+    "ValueIsFile": true,
+    "CanHaveValue": true,
+    "Warning": "",
+    "CanBeUsedMoreThanOnce": true
+  },
+  {
+    "Name": "Exclude Directory",
+    "Parameter": " -excludedir",
+    "Description": "Ignores this folder when looking for assets",
+    "Value": null,
+    "ValueIsFile": true, 
+    "ValueIsFolder": true, 
+    "CanHaveValue": true,
+    "Warning": "",
+    "CanBeUsedMoreThanOnce": true
+  },
+  {
+    "Name": "Exclude VPK Files",
+    "Parameter": " -excludevpk",
+    "Description": "Exclude files from packing that are already in the specified VPK",
+    "Value": null,
+    "ValueIsFile": true,
+    "CanHaveValue": true,
+    "Warning": "",
+    "CanBeUsedMoreThanOnce": true
+  },
+  {
+    "Name": "VPK",
+    "Parameter": " -vpk",
+    "Description": "Pack into a VPK instead of BSP.",
+    "Value": null,
+    "CanHaveValue": false,
+    "Warning": "L4D2/Portal2 only",
+    "CanBeUsedMoreThanOnce": false
+  },
+  {
+    "Name": "Addon Info",
+    "Parameter": " -ainfo",
+    "Description": "Packs specified file as addoninfo.txt",
+    "Value": null,
+    "ValueIsFile": true,
+    "CanHaveValue": true,
+    "Warning": "L4D2/Portal2 only",
+    "CanBeUsedMoreThanOnce": false
+  },
+  {
+    "Name": "Include File List",
+    "Parameter": " -includefilelist",
+    "Description": "Packs all files in the file list",
+    "Value": null,
+    "ValueIsFile": true,
+    "CanHaveValue": true,
+    "Warning": "",
+    "CanBeUsedMoreThanOnce": true
+  },
+  {
+    "Name": "Use File List",
+    "Parameter": " -usefilelist",
+    "Description": "Passes file list to BSPZIP",
+    "Value": null,
+    "ValueIsFile": true,
+    "CanHaveValue": true,
+    "Warning": "This will disable automatic packing detection",
+    "CanBeUsedMoreThanOnce": false
+  }
+]

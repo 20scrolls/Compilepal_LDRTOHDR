@@ -1,0 +1,124 @@
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Compiling\errorstyle.html
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\COPY\meta.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\COPY\parameters.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\CUBEMAPS\meta.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\CUBEMAPS\parameters.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\GAME\meta.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\GAME\parameters.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\NAV\meta.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\NAV\parameters.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\PACK\meta.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\PACK\parameters.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\REPACK\meta.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\REPACK\parameters.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\SHUTDOWN\meta.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\SHUTDOWN\parameters.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\STATS\meta.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\STATS\parameters.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\VBSP\meta.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\VBSP\parameters.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\VRAD\meta.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\VRAD\parameters.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\VVIS\meta.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\VVIS\parameters.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\UTILITY\meta.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\UTILITY\parameters.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\CUSTOM\meta.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\CUSTOM\parameters.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\Decompile\meta.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Parameters\Decompile\parameters.json
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\LDR to HDR\Decompile.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\LDR to HDR\copy.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\LDR to HDR\CUBEMAPS.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\LDR to HDR\NAV.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\LDR to HDR\PACK.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\LDR to HDR\vbsp.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\LDR to HDR\vrad.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\LDR to HDR\vvis.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Publish - HDR\copy.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Publish - HDR\CUBEMAPS.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Publish - HDR\NAV.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Publish - HDR\PACK.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Publish - HDR\vbsp.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Publish - HDR\vrad.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Publish - HDR\vvis.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Publish - Both\copy.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Publish - Both\CUBEMAPS.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Publish - Both\NAV.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Publish - Both\PACK.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Publish - Both\vbsp.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Publish - Both\vrad.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Publish - Both\vvis.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Fast\copy.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Fast\game.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Fast\vbsp.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Fast\vrad.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Fast\vvis.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Full - Both\copy.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Full - Both\game.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Full - Both\vbsp.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Full - Both\vrad.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Full - Both\vvis.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Full - HDR\copy.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Full - HDR\game.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Full - HDR\vbsp.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Full - HDR\vrad.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Full - HDR\vvis.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Full - LDR\copy.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Full - LDR\game.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Full - LDR\vbsp.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Full - LDR\vrad.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Full - LDR\vvis.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Normal\copy.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Normal\game.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Normal\vbsp.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Normal\vrad.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Presets\Normal\vvis.csv
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\version_prerelease.txt
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Keys\materialkeys.txt
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Keys\texturekeys.txt
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Keys\vmfmaterialkeys.txt
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Keys\vmfmodelkeys.txt
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Keys\vmfsoundkeys.txt
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\version.txt
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\CompilePalX.exe.config
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\CompilePalX.exe
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\CompilePalX.pdb
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\MahApps.Metro.xml
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\MahApps.Metro.IconPacks.xml
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\bin\Release\Newtonsoft.Json.xml
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\CompilePalX.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\Compilers\Utility\ConflictWindow.baml
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\Compiling\ErrorWindow.baml
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\Configuration\ProcessAdder.baml
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\Configuration\ParameterAdder.baml
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\GameConfiguration\LaunchWindow.baml
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\InputDialog.baml
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\CompilePalTheme.baml
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\App.baml
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\Compilers\Utility\ConflictWindow.g.cs
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\Compiling\ErrorWindow.g.cs
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\Configuration\ProcessAdder.g.cs
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\Configuration\ParameterAdder.g.cs
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\FileInput.g.cs
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\GameConfiguration\LaunchWindow.g.cs
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\InputDialog.g.cs
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\MainWindow.g.cs
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\App.g.cs
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\CompilePalX_Content.g.cs
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\CompilePalX_MarkupCompile.cache
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\CompilePalX_MarkupCompile.lref
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\FileInput.baml
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\MainWindow.baml
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\CompilePalX.g.resources
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\CompilePalX.Properties.Resources.resources
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\CompilePalX.csproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\CompilePalX.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\CompilePalX.csproj.Fody.CopyLocal.cache
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\CompilePalX.csproj.CopyComplete
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\CompilePalX.exe
+C:\Users\anton\OneDrive\Documents\CompilePal_SourceCode\CompilePalX\obj\Release\CompilePalX.pdb

@@ -1,0 +1,38 @@
+detail.vbsp
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/detail.vbsp
+materials/realworldtextures2/marble/inserts/marble_04.vmt
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/materials/realworldtextures2/marble/inserts/marble_04.vmt
+materials/RealWorldTextures2/marble/inserts/marble_04.vtf
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/materials/RealWorldTextures2/marble/inserts/marble_04.vtf
+materials/RealWorldTextures2/marble/inserts/marble_04_nrm.vtf
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/materials/RealWorldTextures2/marble/inserts/marble_04_nrm.vtf
+materials/skybox/sky_dustbk.vmt
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/materials/skybox/sky_dustbk.vmt
+materials/skybox/sky_dustbk.vtf
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/materials/skybox/sky_dustbk.vtf
+materials/skybox/sky_dustdn.vmt
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/materials/skybox/sky_dustdn.vmt
+materials/skybox/sky_dustdn.vtf
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/materials/skybox/sky_dustdn.vtf
+materials/skybox/sky_dustft.vmt
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/materials/skybox/sky_dustft.vmt
+materials/skybox/sky_dustft.vtf
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/materials/skybox/sky_dustft.vtf
+materials/skybox/sky_dustlf.vmt
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/materials/skybox/sky_dustlf.vmt
+materials/skybox/sky_dustlf.vtf
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/materials/skybox/sky_dustlf.vtf
+materials/skybox/sky_dustrt.vmt
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/materials/skybox/sky_dustrt.vmt
+materials/skybox/sky_dustrt.vtf
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/materials/skybox/sky_dustrt.vtf
+materials/skybox/sky_dustup.vmt
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/materials/skybox/sky_dustup.vmt
+materials/skybox/sky_dustup.vtf
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/materials/skybox/sky_dustup.vtf
+materials/detail/detailsprites.vmt
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/materials/detail/detailsprites.vmt
+materials/detail/detailsprites.vtf
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/materials/detail/detailsprites.vtf
+scripts/vscripts/lrdeag.nut
+F:\Steam2\steamapps\common\Counter-Strike Global Offensive\csgo/scripts/vscripts/lrdeag.nut

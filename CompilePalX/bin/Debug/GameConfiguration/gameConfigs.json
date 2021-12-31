@@ -1,0 +1,16 @@
+[
+  {
+    "GameFolder": "F:\\Steam2\\steamapps\\common\\Counter-Strike Global Offensive\\csgo",
+    "VBSP": "F:\\Steam2\\steamapps\\common\\Counter-Strike Global Offensive\\bin\\vbsp.exe",
+    "VVIS": "F:\\Steam2\\steamapps\\common\\Counter-Strike Global Offensive\\bin\\vvis.exe",
+    "VRAD": "F:\\Steam2\\steamapps\\common\\Counter-Strike Global Offensive\\bin\\vrad.exe",
+    "BSPZip": "F:\\Steam2\\steamapps\\common\\Counter-Strike Global Offensive\\bin\\bspzip.exe",
+    "VBSPInfo": "F:\\Steam2\\steamapps\\common\\Counter-Strike Global Offensive\\bin\\vbspinfo.exe",
+    "VPK": "F:\\Steam2\\steamapps\\common\\Counter-Strike Global Offensive\\bin\\vpk.exe",
+    "GameEXE": "F:\\Steam2\\steamapps\\common\\Counter-Strike Global Offensive\\csgo.exe",
+    "MapFolder": "F:\\Steam2\\steamapps\\common\\Counter-Strike Global Offensive\\csgo\\maps",
+    "SDKMapFolder": "F:\\Steam2\\steamapps\\common\\Counter-Strike Global Offensive\\sdk_content\\maps",
+    "BinFolder": "F:\\Steam2\\steamapps\\common\\Counter-Strike Global Offensive\\bin",
+    "Name": "Counter-Strike: Global Offensive"
+  }
+]

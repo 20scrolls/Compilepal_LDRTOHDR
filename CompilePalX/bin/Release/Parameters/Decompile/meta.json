@@ -1,0 +1,11 @@
+{
+  "Name": "Decompile",
+  "Path": "",
+  "Order": 15.0,
+  "DoRun": false,
+  "ReadOutput": false,
+  "Description": "Decompiles a map.",
+  "Warning": "",
+  "PresetDefault": false,
+  "BasisString": ""
+}

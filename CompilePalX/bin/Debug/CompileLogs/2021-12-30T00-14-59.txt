@@ -1,0 +1,4 @@
+Starting a 'LDR to HDR' compile.
+
+'LDR to HDR' compile finished in 00:00:00
+

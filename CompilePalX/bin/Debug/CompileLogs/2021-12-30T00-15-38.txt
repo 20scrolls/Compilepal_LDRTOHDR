@@ -1,0 +1,8 @@
+Starting a 'LDR to HDR' compile.
+Starting compilation of fy_temple
+Failed to run executable: 
+An error cancelled the compile.
+Compile forcefully ended.
+
+'LDR to HDR' compile finished in 00:00:00
+
